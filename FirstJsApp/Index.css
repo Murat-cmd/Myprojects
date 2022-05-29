@@ -1,0 +1,100 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+body{
+    
+    
+    height: 550px;
+    width: 1355px;
+    background-color: rgb(255, 255, 255);
+    
+}
+h1{
+    flex-wrap: wrap;
+    text-align: center;
+    margin-top: 50px;
+    font-size:75px;
+    font-family: Arial, Helvetica;
+    text-align: center;
+    justify-content: center;
+}
+h2{
+    flex-wrap: wrap;
+    text-align: center;
+    margin-top: 50px;
+    font-size:75px;
+    font-family: Arial, Helvetica;
+   
+    justify-content: center;
+}
+
+button{
+    flex-wrap: wrap;
+   position: relative;
+   
+   font-size: 20px;
+   width: 150px;
+   height: 40px;
+   color: rgb(255, 255, 255);
+   border-radius: 10px 10px 10px 10px;
+   font-weight: bold;
+   border: transparent;
+  background-color: rgb(42, 19, 255);
+cursor: pointer;
+transition: 0.2s;
+
+
+ 
+}
+.bty{
+    width: 1355px;
+    padding-top: 40px;
+    text-align: center;
+justify-content: center;
+
+
+}
+
+.btn1:hover {
+    background-color: rgb(248, 248, 248);
+    color: rgb(42, 19, 255);
+    
+    
+    
+}
+.btn2:hover {
+    background-color: rgb(248, 248, 248);
+    color: rgb(42, 19, 255);
+    
+    
+    
+}
+
+ .tx{ 
+    
+    font-size:18px ;
+    font-weight: bold;
+    color: rgb(42, 19, 255);
+   
+    font-family: 'Courier New', Courier, monospace;
+    
+    justify-content: center;
+    align-self: center;
+    
+
+    
+
+
+} 
+.cen{
+    width: 1355px;
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 40px;
+
+
+}
