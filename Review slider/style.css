@@ -1,0 +1,104 @@
+body{
+    margin-top: 125px;
+    text-align: center;
+    justify-content: center;
+    
+   
+}
+
+.review{
+    justify-content: center;
+    background-color: rgba(111, 111, 252, 0.288);
+    border-radius: 10px;
+    height: 300px;
+    width: 400px;
+    text-align: center;
+    padding-bottom: 50px;
+    background-color: transparent;
+    border: 2px dotted black;
+    margin-left: 475px;
+    margin-top: 40px;
+    
+}
+
+h1{
+    
+    font-size: 75px;
+    text-decoration: underline blue ;
+}
+
+h2{
+    margin-top: 50px;
+
+}
+
+#job{
+    font-weight: 500;
+    margin:  0px;
+    color: blue;
+    text-transform: capitalize;
+    
+    
+   
+
+}
+
+#text{
+
+    margin-top: 40px;
+    font-style: italic;
+    margin-left: 10px;
+    margin-right: 10px ;
+}
+
+
+
+
+
+
+button{
+    color: black;
+    font-weight: bold;
+}
+
+#random{
+    margin-top: 12px;
+    height: 30px;
+    width: 125px;
+    border-style: solid;
+    border-radius: 15px;
+    border-color: transparent;
+    
+    
+}
+
+#next{
+border: transparent;
+border-radius: 100pc;
+height: 30px;
+width: 30px;
+font-size: 15px;
+margin-left: 300px;
+margin-top: 50px;
+}
+
+#previous{
+    border: transparent;
+    border-radius: 100pc;
+    height: 30px;
+    width: 30px;
+    font-size: 15px;
+}
+
+#next:hover , #previous:hover , #random:hover{
+    background-color: blue;
+    color: white;
+}
+
+
+ 
+
+
+
+
+
